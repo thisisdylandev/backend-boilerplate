@@ -6,6 +6,7 @@ A quickstart boilerplate project for creating an express app, and connecting to 
 
 - [Installation](#installation)
 - [Details](#details)
+- [Debugging](#debugging)
 - [Contributing](#contributing)
 
 ## Installation
@@ -30,6 +31,10 @@ Created a Dockerfile for building the node container, and docker-compose.yml to 
 
 Uses [nvm](https://github.com/nvm-sh/nvm) for managing node versions for multiple contributors.
 
+## Debugging
+
+To instart debugging, run `npm run debug` in the root directory of the project.
+
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and open a pull request.
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request.](https://github.com/ctrlaltdylang/backend-boilerplate/compare)
